@@ -16,6 +16,23 @@ A beginner-friendly web application for portfolio optimization, focused on India
 
 ## Screenshots
 
+<p align="center">
+  <img src="./Output_pics/image.png" alt="Preview 1" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Output_pics/image1.png" alt="Preview 2" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Output_pics/image2.png" alt="Preview 3" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Output_pics/image3.png" alt="Preview 4" width="600"/>
+</p>
+
+
 ## How to Run Locally
 1. **Clone the repository:**
    ```
